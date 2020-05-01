@@ -1,2 +1,2 @@
 # VSCodeVimExtensionCommands
- List of commands of VS Code's Vim extension
+ List of commands for VS Code's Vim extension (https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
